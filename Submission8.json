@@ -1,0 +1,6 @@
+{
+  "prompt": "Close-up photorealistic portrait, quiet tragedy and uncanny stillness. Depicting a master craftsman sitting at a heavy wooden workbench covered in raw, unshaped materials. The paradox: his hands and forearms have been entirely replaced by complex, interlocking precision measuring instruments — shining brass calipers, steel micrometers, and polished compasses woven into the shape of human hands. They are perfectly calibrated and pristine, yet rigid and fundamentally incapable of grasping, cutting, or shaping the wood before him. Composition: center focus on the useless mechanical hands resting on the raw materials, with the craftsman's weary face slightly out of focus in the warm background shadows. Color palette: warm workshop amber and rich browns contrasted with the cold, gleaming silver and gold of the metal instruments. No text, absolutely no numbers on the rulers or dials, no charts, no labels, no mathematical notation, no targets, no speedometers.",
+  "model": "Banana (Gemini Imagen)",
+  "paradox": "Goodhart's Law",
+  "visual_logic": "A master craftsman whose hands are entirely replaced by precision measuring instruments. He is perfectly calibrated for measurement, but physically incapable of crafting—optimizing the measure destroyed the function."
+}
